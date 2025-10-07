@@ -12,7 +12,7 @@ import type { ResumeData } from './types';
 const resumeData: ResumeData = {
   personalInfo: {
     name: "Muhammad Faisal",
-    title: "Information Technology Student",
+    title: "Aspiring IT Professional",
     email: "mfaisal.ue@gmail.com",
     phone: "0308-6785487",
     location: "Muzaffargarh, Punjab, Pakistan",
