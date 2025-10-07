@@ -128,7 +128,7 @@ export const Header: React.FC<HeaderProps> = ({ personalInfo }) => {
           </div>
           <div className="flex-shrink-0">
             <img 
-              className="h-40 w-40 md:h-48 md:w-48 rounded-full object-cover object-position-top border-4 border-blue-400 shadow-lg" 
+              className="h-40 w-40 md:h-48 md:w-48 rounded-full object-cover object-[50%_10%] border-4 border-blue-400 shadow-lg" 
               src={personalInfo.profileImage}
               alt="Profile" 
             />
